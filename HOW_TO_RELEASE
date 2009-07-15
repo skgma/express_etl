@@ -1,0 +1,4 @@
+rake release
+git tag release-x.y.z
+git push --tags
+rake pdoc
